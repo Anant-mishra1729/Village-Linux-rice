@@ -14,4 +14,4 @@
 ## Instructions
 * Download the **Jasper-dark-modified** theme
 * Install required extensions
-* I have shared the arch logo, set path of dashboard icon with the arch-logo path
+* I've shared the arch logo, select dashboard icon as arch-logo
