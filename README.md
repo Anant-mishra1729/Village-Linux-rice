@@ -14,4 +14,4 @@
 ## Instructions
 * Download the **Jasper-dark-modified** theme
 * Install required extensions
-* I've shared the arch logo, select dashboard icon as arch-logo
+* I've shared the arch logo, select dashboard icon as arch-logo.svg or love.png
