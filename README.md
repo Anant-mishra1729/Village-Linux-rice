@@ -1,7 +1,7 @@
 # Village-Linux-rice
 ### Gnome shell >= 42
 
-<img src = "Wall1.png" />
+<img src = "static/Wall1.png" />
 
 ## Extensions used
 
