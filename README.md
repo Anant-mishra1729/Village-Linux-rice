@@ -1,4 +1,5 @@
 # Village-Linux-rice
+Original wallpaper is modified using DALLE-2
 ### Gnome shell >= 42
 
 <img src = "static/Wall1.png" />
