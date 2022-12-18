@@ -14,6 +14,6 @@
 ## Instructions
 
 <ul>
-<li>Download the <b>Jasper-Dark-modified</b> theme, Original theme <a href = "https://github.com/vinceliuice/Jasper-gtk-theme"/>
+<li>Download the <b>Jasper-Dark-modified</b> theme, <a href = "https://github.com/vinceliuice/Jasper-gtk-theme"/>Original theme</a>
 <li>Install required extensions + set the wallpaper</li>
 <li>I've shared the arch logo, select dashboard icon as arch-logo.svg or love.png</li>
