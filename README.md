@@ -14,6 +14,10 @@
 ## Instructions
 
 <ul>
-<li>Download the <b>Jasper-Dark-modified</b> theme, <a href = "https://github.com/vinceliuice/Jasper-gtk-theme"/>Original theme</a>
-<li>Install required extensions + set the wallpaper</li>
-<li>I've shared the arch logo, select dashboard icon as arch-logo.svg or love.png</li>
+<li> Clone the repository</li>
+<li> Copy Jasper-dark-modified to .local/themes</li>
+<li> Set Tela circle icon theme and set Jasper-dark-modified as theme using gnome tweaks</li>
+<li> Download extensions</li>
+<li> Configure Aylur's widgets accordingly</li>
+<li> For dashboard I've provided logos is logos/ folder</li>
+</ul>
