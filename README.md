@@ -1,10 +1,11 @@
 # Village-Linux-rice
 Original wallpaper is modified using DALLE-2
-### Gnome shell >= 42
+### With Conky
 
 <img src = "static/Wall1.png" />
 <img src = "static/Wall2.png" />
 
+### Without Conky
 
 ## Extensions used
 
