@@ -1,5 +1,8 @@
 # Village-Linux-rice
-Original wallpaper is modified using DALLE-2
+<img src = "static/Wall5.png" />
+
+### Here are few pictures to select from...
+
 ### Without Conky
 
 <img src = "static/Wall1.png" />
