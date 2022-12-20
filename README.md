@@ -12,6 +12,10 @@
 <img src = "static/Wall4.png" />
 <img src = "static/Wall3.png" />
 
+# Technology used
+* Theme: Modified Jasper Dark
+* Iconset: Deepin 2022 by Zayronxio
+
 ## Extensions used
 
 <ul>
