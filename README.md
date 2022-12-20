@@ -6,9 +6,8 @@ Original wallpaper is modified using DALLE-2
 <img src = "static/Wall2.png" />
 
 ### With Conky
-
-<img src = "static/Wall3.png" />
 <img src = "static/Wall4.png" />
+<img src = "static/Wall3.png" />
 
 ## Extensions used
 
