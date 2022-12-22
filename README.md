@@ -1,4 +1,9 @@
 # Village-Linux-rice
+
+<div align = "left">
+<img src = "https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src = "https://forthebadge.com/images/badges/made-with-crayons.svg" />
+</div>
 <img src = "static/Wall5.png" />
 
 ### Here are few pictures to select from...
